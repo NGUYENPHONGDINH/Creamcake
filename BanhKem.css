@@ -22,9 +22,6 @@ div ul li:hover ul.menu2 li{
 a {
     text-decoration: none;
 }
-img.carousel{
-    height: 450px;
-}
 div.row div.px {
     border: 1px solid rgb(206, 192, 192);
 }
