@@ -19,7 +19,7 @@ ul.menu2 li{
 div ul li:hover ul.menu2 li{
     display: block;
 }
-a {
+a{
     text-decoration: none;
 }
 div.row div.px {
